@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Lopes! 👋
 
-Atualmente cursando Ciência da Computação e interessado em desenvolvimento Web e Cibersegurança. Focado em aprender lógica de programação e boas práticas de mercado.
+Atualmente cursando Ciência da Computação e interessado em desenvolvimento de software, cibersegurança, cloud e IA. Focado em aprender lógica de programação e boas práticas de mercado.
 
 <picture>
   <source
