@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Lopes! 👋
 
  Ciência da Computação na **Universidade Presbiteriana Mackenzie**
- Focado em **Redes, Cloud e DevOps** |  Interesse em Cybersecurity (AppSec)
+ Focado em **Redes, Cloud e DevOps** |  Interesse em Cybersecurity, Redes, Cloud
 
 Estudante de CC construindo uma base sólida em infraestrutura, redes e nuvem,
 com experiência prática em desenvolvimento backend/frontend como suporte para
