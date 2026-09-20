@@ -18,7 +18,6 @@ de frequência mínima dos alunos.
 
 - **Stack:** Next.js 15 (App Router), Tailwind CSS, Supabase (PostgreSQL + Auth)
 - **Arquitetura:** RBAC, gestão de turmas/alunos, registro de frequência
-- **Documentação:** SDD completo e roteiro de agentes de desenvolvimento
 
 ---
 
