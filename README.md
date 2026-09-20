@@ -56,7 +56,7 @@ de frequência mínima dos alunos.
   <a href="mailto:lopessanchesgabriel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[SEU_LINK_LINKEDIN_AQUI](https://www.linkedin.com/in/gabriel-sanches-dev/)">
+  <a href="https://www.linkedin.com/in/gabriel-sanches-dev/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
